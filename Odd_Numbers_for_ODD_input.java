@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem3 {
+public class Odd_Numbers_for_ODD_input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a: ");
